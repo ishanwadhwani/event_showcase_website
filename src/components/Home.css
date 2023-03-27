@@ -1,0 +1,33 @@
+.animation-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform : translate(-50%, -50%);
+    font-weight : bold;
+    background: #fff;
+    background-image: linear-gradient(to right, #fff 30%, #66347F 80%, #fff 40%);
+    background-repeat: 3 no-repeat;
+    background-size: 150px;
+    color: rgba(255, 255, 255, 0.1);
+    background-clip: text;
+    animation: animate 15s infinite;
+    font-family: bignoodletitling;
+}
+
+@keyframes animate {
+    0%, 10% {
+        background-position: -900px;
+    }
+    20% {
+        background-position: top left ;
+    }
+    50% {
+        background-position: 900px ;
+    }
+    90% {
+        background-position: top right ;
+    }
+    100% {
+        background-position: 300px ;
+    }
+}

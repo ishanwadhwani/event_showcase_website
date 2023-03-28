@@ -1,12 +1,11 @@
 # Getting Started with Create React App
 
-
+https://user-images.githubusercontent.com/89929251/228093610-bdbc760e-cd50-421e-8f1a-0a91f8507014.mp4
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Install required packages using npm install or if using yarn then yarn install.
 ## Install Tailwind css (https://tailwindcss.com/docs/guides/create-react-app)
 
-![React App (1)](https://www.awesomescreenshot.com/video/15987241?key=2935883c2bc9f034a8d8e189caa409dc)
 
 ## Available Scripts
 
